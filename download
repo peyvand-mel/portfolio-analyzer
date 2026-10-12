@@ -1,0 +1,20 @@
+.venv/
+.tools/
+uv.zip
+__pycache__/
+.pytest_cache/
+.cache/
+.uv-cache/
+.env
+.env.*
+.streamlit/secrets.toml
+.claude/
+.codex/
+.agents/
+.aws/
+
+# Personal brokerage exports and holdings screenshots stay on this PC.
+Activity*.csv
+Screenshot*.png
+Screenshot*.jpg
+Screenshot*.jpeg
